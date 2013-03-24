@@ -1,10 +1,9 @@
 couchdb.js
 ==========
 
-`couchdb.js` is a standalone library for CouchDB browser clients.
+__couchdb.js__ is a standalone CouchDB client library for the browser.
 It is based on the `jquery.couch.js` library included in CouchDB,
-but modified to not depend on jQuery. It still depends on `sha1.js`
-for user signups.
+but modified to not depend on jQuery.
 
-`couchdb.js` also contains some improvements in the robustness of `db.changes`
-
+__couchdb.js__ also contains some improvements in the robustness of
+`db.changes`.
